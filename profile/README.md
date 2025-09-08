@@ -33,24 +33,15 @@ From advanced photo editing and retouching to complex graphic design and digital
 
 ## Screenshots
 
-### Interface Overview
-<div align="center">
-  ![Pixelmator Pro Workspace](https://petapixel.com/assets/uploads/2024/05/pixelmator-pro-3-6-featured.jpg)
-</div>
+### Interface Overview  
+![Pixelmator Pro Workspace](https://petapixel.com/assets/uploads/2024/05/pixelmator-pro-3-6-featured.jpg)
 
----
+### Color Editing Tools  
+![Pixelmator Pro Colors](https://shotkit.com/wp-content/uploads/2023/03/Pixelmator-Pro-Colors.jpg)
 
-### Color Editing Tools
-<div align="center">
-  ![Pixelmator Pro Colors](https://shotkit.com/wp-content/uploads/2023/03/Pixelmator-Pro-Colors.jpg)
-</div>
+### Brush Customization  
+![Pixelmator Pro Brushes](https://shotkit.com/wp-content/uploads/2023/03/Pixelmator-Pro-Brushes.jpg)
 
----
-
-### Brush Customization
-<div align="center">
-  ![Pixelmator Pro Brushes](https://shotkit.com/wp-content/uploads/2023/03/Pixelmator-Pro-Brushes.jpg)
-</div>
 
 ---
 
