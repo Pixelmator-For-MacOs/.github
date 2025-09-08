@@ -101,8 +101,10 @@ Follow these steps to get started with Pixelmator Pro:
 
 ---
 
+## System Requirements (macOS)
+
 ### Minimum System Requirements:
-- **Operating System**: macOS 10.15 (Catalina) or later  
+- **OS**: macOS 10.15 (Catalina) or later  
 - **Processor**: Intel-based Mac or Apple Silicon (M1, M2)  
 - **RAM**: 4 GB minimum  
 - **Disk Space**: 500 MB of free disk space for installation  
@@ -143,4 +145,4 @@ Definitely! Pixelmator Pro includes a comprehensive set of brushes and painting 
 
 ## SEO Keywords
 
-pixelmator pro, pixelmator download, pixelmator mac, photo editing mac, graphic design mac, digital painting mac, pixelmator pro review, pixelmator pro free, pixelmator mac free, pixelmator pro download, pixelmator pro mac, app pixelmator, pixelmator black friday
+pixelmator pro, pixelmator download, pixelmator mac, photo editing mac, graphic design mac, digital painting mac, pixelmator pro review, pixelmator pro free, pixelmator mac free, pixelmator pro download
