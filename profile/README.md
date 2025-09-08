@@ -1,8 +1,9 @@
 # Pixelmator Pro – Professional Image Editing on Mac
 
 <div align="center">
-<img src="https://www.pixelmator.com/cdn-web-assets/pro/tech-specs/3.5/img_pixelmator-pro-3.5.jpg" alt="Pixelmator Pro Icon" width="160">
+<img src="https://www.pixelmator.com/cdn-web-assets/pro/tech-specs/3.5/img_pixelmator-pro-3.5.jpg" alt="Pixelmator Pro Icon" width="400">
 </div>
+
 
 ---
 
